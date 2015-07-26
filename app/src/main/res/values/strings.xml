@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Futbol Tienda</string>
+
+    <string name="dialog_ok">Ok</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_exit_title">Exit Futbol Tienda?</string>
+    <string name="dialog_exit_message">Are you sure you want to exit Futbol Tienda?</string>
+    <string name="action_settings">About</string>
+</resources>
